@@ -34,7 +34,15 @@ Key fields: Order Date, Region, State, Category, Sub-Category, Product Name, Sal
 4. Check `results/` folder for CSV outputs
 
 ### 📁 Repository Structure
-
+superstore-sql-analysis/
+├── README.md
+├── superstore_analysis.sql
+└── results/
+    ├── top_products.csv
+    ├── sales_by_region.csv
+    ├── yoy_sales.csv
+    └── top_customers.csv
+    
 ### 👤 Author
 Debojyoti Mondal | Aspiring Data Analyst  
 LinkedIn: www.linkedin.com/in/debojyoti-mondal-654891329
